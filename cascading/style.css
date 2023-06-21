@@ -1,0 +1,58 @@
+* {
+    border: 2px whitesmoke;
+  }
+
+
+
+body {
+    background: #aaa
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .para,
+  .small-para {
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+  }
+  
+
+  
+  .para {
+    font-size: 52px;
+    font-weight: 1000;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 0.1em;
+  }
+
+  .small-para {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  
+  
+  #confirm-button {
+    background: green;
+    color: white;
+    font-weight: bold;
+  } 
+  
+  .button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+  
+
+  
+  .text{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-weight: 100;
+  }
+
+  .child {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 24px;
+  }
